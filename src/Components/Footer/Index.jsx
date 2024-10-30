@@ -29,7 +29,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a 
-                    href='https://instagra.com//cursilho_brasil_oficial/' 
+                    href='https://instagram.com//cursilho_brasil_oficial/' 
                     target='_blank'
                     rel='noreferrer'
                   >

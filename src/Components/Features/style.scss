@@ -1,0 +1,20 @@
+.features {
+  position: relative;
+  border: 1px solid #EEE;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  .feature {
+    position: relative;
+
+    .title {
+      position: relative;
+      font-size: 26px;
+    }
+
+    .description {
+      position: relative;
+      font-size: 18px;
+    }
+  }
+}
